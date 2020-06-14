@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppVue", "WebAppVue\WebAppVue.csproj", "{D2CAEA35-168C-4181-A6B8-CF3D3229D3BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{E5BF1C2B-CF11-44AB-945B-23EF11B70250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2CAEA35-168C-4181-A6B8-CF3D3229D3BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2CAEA35-168C-4181-A6B8-CF3D3229D3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2CAEA35-168C-4181-A6B8-CF3D3229D3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2CAEA35-168C-4181-A6B8-CF3D3229D3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB7A7183-95E7-4207-A9A5-E561F99E3DB4}
+	EndGlobalSection
+EndGlobal
